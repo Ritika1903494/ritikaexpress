@@ -1,0 +1,40 @@
+{
+  "SignUp": [
+    {
+      "userName": "ritika",
+      "email": "ritikathakur695@gmail.com",
+      "password": "1408",
+      "id": 1
+    },
+    {
+      "userName": "nargisdeep kaur",
+      "email": "nargisdeep@gmail.com",
+      "password": "65677678",
+      "id": 3
+    },
+    {
+      "userName": "ashu",
+      "email": "ashu@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "userName": "bikkram",
+      "email": "biki@gmail.com",
+      "password": "87654",
+      "id": 5
+    },
+    {
+      "userName": "SahilAkkal",
+      "email": "Sahil@gmail.com",
+      "password": "Sahil@123",
+      "id": 6
+    },
+    {
+      "userName": "Amanjit kaur",
+      "email": "Aman@gmail.com",
+      "password": "A@123man",
+      "id": 7
+    }
+  ]
+}

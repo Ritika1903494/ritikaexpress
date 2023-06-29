@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "firstName": "ritika",
+      "lastName": "thakur",
+      "email": "ritikathakur695@gmail.com",
+      "age": 23,
+      "course": "Angular",
+      "price": "Rs-4500",
+      "time": "2023-04-24T07:30:35.010Z",
+      "query": "frffvfvf",
+      "id": 1
+    },
+    {
+      "firstName": "disha",
+      "lastName": "thakur",
+      "email": "disha@gmail.com",
+      "age": 22,
+      "course": "MongoDB",
+      "price": "Rs-4000",
+      "time": "2023-04-24T08:30:31.756Z",
+      "query": "vfbfvbgfbgbgb",
+      "id": 2
+    },
+    {
+      "firstName": "tarun",
+      "lastName": "kumar",
+      "email": "tarun@gmail.com",
+      "age": 25,
+      "course": "JavaScript",
+      "price": "Rs-3500",
+      "time": "2023-04-28T07:30:31.393Z",
+      "query": "cdcvjnvnvcmc",
+      "id": 3
+    },
+    {
+      "firstName": "sahil",
+      "lastName": "akkal",
+      "email": "sahil@gmail.com",
+      "age": 50,
+      "course": "Java",
+      "price": "Rs-6000",
+      "time": "2023-04-24T09:30:33.954Z",
+      "query": "hello",
+      "id": 4
+    },
+    {
+      "firstName": "nargisdeep",
+      "lastName": "kaur",
+      "email": "nargisdeep@gmail.com",
+      "age": 34,
+      "course": "React Js",
+      "price": "Rs-5000",
+      "time": "2023-05-24T06:30:27.459Z",
+      "query": "hi",
+      "id": 5
+    },
+    {
+      "firstName": "mohit",
+      "lastName": "thakur",
+      "email": "mohti@gmail.com",
+      "age": 25,
+      "course": "Angular",
+      "price": "Rs-4500",
+      "time": "2023-08-23T06:30:19.477Z",
+      "query": "dfbcdfm",
+      "id": 6
+    },
+    {
+      "firstName": "mansi",
+      "lastName": "dhingra",
+      "email": "mansi@gmail.com",
+      "age": 23,
+      "course": "JavaScript",
+      "price": "Rs-3500",
+      "time": "2023-04-24T10:30:54.917Z",
+      "query": "hlo",
+      "id": 7
+    },
+    {
+      "firstName": "shruti",
+      "lastName": "kumra",
+      "email": "shruti@gmail.com",
+      "age": 23,
+      "course": "React Js",
+      "price": "Rs-5000",
+      "time": "2023-05-25T06:30:58.131Z",
+      "query": "rghrvtfnvrh",
+      "id": 8
+    },
+    {
+      "firstName": "bhanu",
+      "lastName": "singh",
+      "email": "bhanu@gmail.com",
+      "age": 45,
+      "course": "MongoDB",
+      "price": "Rs-4000",
+      "time": "2023-04-26T06:30:00.000Z",
+      "query": "hlo",
+      "id": 9
+    },
+    {
+      "firstName": "bikkram",
+      "lastName": "jit",
+      "email": "biki@gmail.com",
+      "age": 23,
+      "course": "React Js",
+      "price": "Rs-5000",
+      "time": "2023-08-23T06:30:35.814Z",
+      "query": "dsfdfdsf",
+      "id": 10
+    }
+  ]
+}

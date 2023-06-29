@@ -1,0 +1,34 @@
+[
+    {
+      "firstname":"ritika",
+      "lastname":"thakur",
+      "email":"ritikathakur@gmail.com",
+      "age":22,
+      "belong_to_india":true,
+      "natinality":"Indian",
+      "city":"hoshiarpur",
+      "state":"punjab"
+  },
+  
+    {
+      "firstname":"disha",
+      "lastname":"thakur",
+     "email":"dishathakur@gmail.com",
+      "age":16,
+      "belong_to_india":true,
+      "natinality":"Indian",
+      "city":"hoshiarpur",
+      "state":"punjab"
+  },
+  
+    {
+      "firstname":"gigi",
+      "lastname":"hadid",
+      "email":"gigihadid@gmail.com",
+      "age":15,
+      "belong_to_india":false,
+      "natinality":"American",
+      "city":"jalandhar",
+      "state":"punjab"
+  }
+  ]

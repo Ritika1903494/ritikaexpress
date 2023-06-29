@@ -1,0 +1,32 @@
+{
+"user1":{
+    "id":1,
+    "name":"ritika",
+    "role":"intern",
+    "profession":"web developer"
+    },
+ "user3":{
+    "id":3,
+    "name":"tarun",
+    "role":"intern",
+    "profession":"android developer"
+    },
+ "user4":{
+    "id":4,
+    "name":"nargis",
+    "role":"intern",
+    "profession":"Java developer"
+    },
+ "user6":{
+    "id":6,
+    "name":"shruti",
+    "role":"intern",
+    "profession":"Web designer"
+    },
+ "user9":{
+    "id":9,
+    "name":"aaaa",
+    "role":"intern",
+    "profession":"developer"
+    }
+}
